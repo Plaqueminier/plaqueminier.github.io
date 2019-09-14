@@ -1,3 +1,5 @@
-# plaqueminier.github.io
-
+---
 permalink: /index.html
+---
+
+# plaqueminier.github.io
